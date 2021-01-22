@@ -7,3 +7,5 @@ Follow the steps
 2. npm install
 
 3. Run: node index
+
+4. should get message like "<Date> Your status is :"
